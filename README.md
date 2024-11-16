@@ -36,7 +36,7 @@ This project uses OpenCV and MediaPipe to detect hand gestures and track fingert
 
 3. **Run the Program**:
     ```bash
-    python hill_climb_controller.py
+    python hill_climb_racing.py
     ```
 
 ## How It Works
